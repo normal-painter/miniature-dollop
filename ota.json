@@ -5,7 +5,8 @@
       "channel": "beta",
       "firmware": "https://raw.githubusercontent.com/InovelliUSA/Firmware/main/Blue-Series/Zigbee/VZM31-SN-2-1-Switch/Beta/2.15/VZM31-SN_2.15.ota",
       "manufacturer_id": 4655,
-      "image_type": 257
+      "image_type": 257,
+      "force": true
     }
   ]
 }
